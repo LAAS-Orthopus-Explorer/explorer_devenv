@@ -2,6 +2,7 @@ src/
 build/
 install/
 log/
+o2r_pi2_controllers/
 explorer_docs/
 explorer_ws/
 .vscode/
